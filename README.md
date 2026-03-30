@@ -1,7 +1,6 @@
-# SEC-DIP--Coin-Detection-using-OpenCV-in-Python
 # Coin-Detection-using-OpenCV-in-Python
 
-## Name : SHARON STEFFANI.F
+## Name :  SHARON STEFFANI.F
 ## Reg.No: 212223110049
 
 # Aim:
